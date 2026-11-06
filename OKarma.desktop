@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OKarma
+Comment=Evil-Twin/KARMA Analyzer
+Exec=OKarma
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OWireless;
